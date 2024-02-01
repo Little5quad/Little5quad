@@ -8,4 +8,4 @@ Language and Tools
 
 ![Cmake](https://img.shields.io/badge/-Cmake-090909?style-for-the-badge&logo=Cmake&logoColor=6296CC)
 
-![Microsoft Visual Studio](https://img.shields.io/badge/-Microsoft%20Visual%20Studio-090909?style-for-the-badge&logo=Microsoft%20Visual%20Studio)
+![Visual Studio](https://img.shields.io/badge/-Microsoft%20Visual%20Studio-090909?style-for-the-badge&logo=Visual%20Studio)
