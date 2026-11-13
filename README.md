@@ -1,13 +1,15 @@
 ### Hi there 👋
 
-## I'm a beginner software developer
+## I'm a C++ Developer
 
-### Languages and Tools
+### Languages & Tools
 
-![C++](https://img.shields.io/badge/-C++-090909?style-for-the-badge&logo=C%2b%2b&logoColor=6296CC)
-![Cmake](https://img.shields.io/badge/-Cmake-090909?style-for-the-badge&logo=Cmake&logoColor=6296CC)
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-090909?style-for-the-badge&logo=Visual%20Studio&logoColor=a578dd)
-![Git](https://img.shields.io/badge/-Git-090909?style-for-the-badge&logo=Git&logoColor=f05033)
+![C++](https://img.shields.io/badge/C++-090909?style=for-the-badge&logo=cplusplus&logoColor=6296CC)
+![Python](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=python&logoColor=3776AB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-090909?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![ClickHouse](https://img.shields.io/badge/ClickHouse-090909?style=for-the-badge&logo=clickhouse&logoColor=FFCC01)
+![CMake](https://img.shields.io/badge/CMake-090909?style=for-the-badge&logo=cmake&logoColor=6296CC)
+![Git](https://img.shields.io/badge/Git-090909?style=for-the-badge&logo=git&logoColor=F05032)
 
 ### Contacts 
 TELEGRAM: OBLADOOET
